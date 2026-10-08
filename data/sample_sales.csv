@@ -1,0 +1,501 @@
+date,product,category,region,units,revenue
+2025-01-02,T-Shirt,Clothing,East,30,493.5
+2025-01-03,Sneakers,Clothing,North,6,507.15
+2025-01-03,Jacket,Clothing,North,5,319.94
+2025-01-04,Smartphone,Electronics,South,1,590.31
+2025-01-06,Monitor,Electronics,North,2,421.07
+2025-01-07,Headphones,Electronics,North,5,585.01
+2025-01-07,T-Shirt,Clothing,North,36,626.52
+2025-01-08,Office Chair,Furniture,South,5,783.87
+2025-01-08,Standing Desk,Furniture,East,2,761.81
+2025-01-09,Laptop,Electronics,East,6,4950.36
+2025-01-09,Notebook Pack,Office Supplies,West,35,400.77
+2025-01-09,Smartphone,Electronics,West,2,1069.72
+2025-01-10,Monitor,Electronics,East,6,1244.53
+2025-01-10,Monitor,Electronics,West,6,1353.51
+2025-01-12,Monitor,Electronics,,2,463.75
+2025-01-12,Laptop,Electronics,North,4,2970.38
+2025-01-13,Sneakers,Clothing,East,13,1097.74
+2025-01-14,Smartphone,Electronics,West,4,2220.32
+2025-01-14,Pen Set,Office Supplies,West,27,187.05
+2025-01-16,Notebook Pack,Office Supplies,North,34,401.7
+2025-01-16,Smartphone,Electronics,North,4,2110.02
+2025-01-17,Notebook Pack,Office Supplies,North,37,433.97
+2025-01-17,T-Shirt,Clothing,North,36,632.25
+2025-01-22,Monitor,Electronics,North,3,703.92
+2025-01-24,Notebook Pack,Office Supplies,East,27,323.04
+2025-01-24,Laptop,Electronics,East,1,835.23
+2025-01-25,Smartphone,Electronics,North,4,2320.94
+2025-01-25,Jacket,Clothing,North,9,587.33
+2025-01-28,Headphones,Electronics,South,7,766.72
+2025-01-29,Smartphone,Electronics,East,,3001.16
+2025-01-29,Standing Desk,Furniture,South,6,2444.35
+2025-01-30,Sneakers,Clothing,South,4,321.15
+2025-01-31,Headphones,Electronics,West,7,759.98
+2025-01-31,Jacket,Clothing,North,7,487.6
+2025-01-31,Smartphone,Electronics,North,5,2817.55
+2025-01-31,Smartphone,Electronics,North,5,2817.55
+2025-02-01,Printer Paper,Office Supplies,North,31,676.27
+2025-02-01,T-Shirt,Clothing,East,27,448.84
+2025-02-02,Office Chair,Furniture,East,1,175.78
+2025-02-02,Pen Set,Office Supplies,East,37,267.88
+2025-02-03,Headphones,Electronics,South,14,1472.73
+2025-02-03,Smartphone,Electronics,East,4,2211.42
+2025-02-03,Notebook Pack,Office Supplies,East,32,378.43
+2025-02-04,Sneakers,Clothing,East,12,924.63
+2025-02-04,Bookshelf,Furniture,North,10,860.61
+2025-02-04,Monitor,Electronics,East,5,1062.22
+2025-02-05,T-Shirt,Clothing,,35,573.43
+2025-02-05,Notebook Pack,Office Supplies,North,39,457.7
+2025-02-07,Notebook Pack,Office Supplies,North,31,365.67
+2025-02-08,Headphones,Electronics,North,13,1411.5
+2025-02-08,Smartphone,Electronics,East,1,569.16
+2025-02-09,Smartphone,Electronics,West,5,2786.28
+2025-02-09,Standing Desk,Furniture,,4,1509.27
+2025-02-09,Jacket,Clothing,North,15,1029.31
+2025-02-11,Jacket,Clothing,East,3,206.61
+2025-02-12,Laptop,Electronics,North,2,1623.04
+2025-02-13,Laptop,Electronics,West,2,1473.58
+2025-02-13,Laptop,Electronics,North,5,3818.09
+2025-02-14,Standing Desk,Furniture,East,4,1544.11
+2025-02-14,Headphones,Electronics,East,4,415.97
+2025-02-15,Laptop,Electronics,East,3,2493.91
+2025-02-16,Monitor,Electronics,South,6,1399.64
+2025-02-16,Printer Paper,Office Supplies,South,34,775.29
+2025-02-16,Monitor,Electronics,East,1,209.96
+2025-02-17,Notebook Pack,Office Supplies,East,37,436.68
+2025-02-17,Monitor,Electronics,West,4,818.39
+2025-02-18,Notebook Pack,Office Supplies,East,25,294.62
+2025-02-18,Notebook Pack,Office Supplies,East,20,214.61
+2025-02-21,Jacket,Clothing,East,7,499.61
+2025-02-21,Notebook Pack,Office Supplies,East,33,383.88
+2025-02-21,Bookshelf,Furniture,West,7,650.93
+2025-02-21,Smartphone,Electronics,West,7,3757.1
+2025-02-21,Sneakers,Clothing,West,6,517.26
+2025-02-21,Standing Desk,Furniture,South,5,1846.97
+2025-02-22,Office Chair,Furniture,South,1,171.48
+2025-02-22,T-Shirt,Clothing,North,24,424.29
+2025-02-24,Laptop,Electronics,South,3,2184.78
+2025-02-25,Jacket,Clothing,South,10,653.0
+2025-02-25,Pen Set,Office Supplies,North,34,237.94
+2025-02-25,Laptop,Electronics,East,4,3277.61
+2025-02-25,Monitor,Electronics,West,3,640.57
+2025-02-26,Headphones,Electronics,West,9,1070.28
+2025-02-28,Pen Set,Office Supplies,East,33,245.38
+2025-02-28,Standing Desk,Furniture,North,4,1567.71
+2025-02-28,Laptop,Electronics,West,1,737.67
+2025-03-02,Monitor,Electronics,West,3,718.77
+2025-03-02,Pen Set,Office Supplies,South,33,260.86
+2025-03-02,Monitor,Electronics,North,6,1362.03
+2025-03-02,Sneakers,Clothing,West,5,409.02
+2025-03-02,Smartphone,Electronics,East,5,2717.41
+2025-03-04,T-Shirt,Clothing,East,42,755.07
+2025-03-05,Notebook Pack,Office Supplies,South,46,530.35
+2025-03-05,Notebook Pack,Office Supplies,South,37,437.81
+2025-03-06,Pen Set,Office Supplies,North,32,222.43
+2025-03-07,Pen Set,Office Supplies,South,36,245.65
+2025-03-07,Laptop,Electronics,North,3,2272.75
+2025-03-07,Monitor,Electronics,East,6,1279.1
+2025-03-08,Headphones,Electronics,East,10,1108.17
+2025-03-08,Monitor,Electronics,East,9,1913.83
+2025-03-10,Smartphone,Electronics,South,5,2638.49
+2025-03-11,Notebook Pack,Office Supplies,North,,463.75
+2025-03-13,Standing Desk,Furniture,East,1,383.64
+2025-03-13,T-Shirt,Clothing,West,26,416.8
+2025-03-14,Pen Set,Office Supplies,East,40,292.33
+2025-03-14,Office Chair,Furniture,West,5,863.26
+2025-03-15,Smartphone,Electronics,South,1,589.52
+2025-03-15,Pen Set,Office Supplies,West,32,246.35
+2025-03-15,Office Chair,Furniture,East,2,314.29
+2025-03-20,Monitor,Electronics,East,1,219.71
+2025-03-20,Monitor,Electronics,East,1,219.71
+2025-03-23,Smartphone,Electronics,West,2,1214.11
+2025-03-24,Standing Desk,Furniture,North,2,806.96
+2025-03-24,Notebook Pack,Office Supplies,North,38,412.76
+2025-03-25,Headphones,Electronics,North,6,718.96
+2025-03-26,Notebook Pack,Office Supplies,West,32,382.59
+2025-03-26,Smartphone,Electronics,East,3,1739.03
+2025-03-27,Sneakers,Clothing,East,4,328.61
+2025-03-28,T-Shirt,Clothing,East,35,561.08
+2025-03-29,Smartphone,Electronics,West,2,1093.48
+2025-03-29,Pen Set,Office Supplies,North,33,261.45
+2025-03-29,Smartphone,Electronics,North,2,1072.44
+2025-03-31,Standing Desk,Furniture,South,1,411.2
+2025-03-31,Office Chair,Furniture,West,3,530.96
+2025-04-02,Laptop,Electronics,North,1,801.5
+2025-04-04,T-Shirt,Clothing,North,41,737.63
+2025-04-06,Bookshelf,Furniture,North,12,1023.91
+2025-04-06,Monitor,Electronics,West,4,949.45
+2025-04-07,Bookshelf,Furniture,East,9,748.05
+2025-04-08,Bookshelf,Furniture,East,12,975.59
+2025-04-08,Notebook Pack,Office Supplies,North,42,463.61
+2025-04-10,Printer Paper,Office Supplies,North,43,1004.87
+2025-04-11,Smartphone,Electronics,South,7,4260.67
+2025-04-11,Smartphone,Electronics,North,5,2829.19
+2025-04-12,Printer Paper,Office Supplies,West,41,917.96
+2025-04-12,Monitor,Electronics,North,4,905.09
+2025-04-12,Standing Desk,Furniture,South,2,737.75
+2025-04-13,Headphones,Electronics,West,9,1004.61
+2025-04-13,T-Shirt,Clothing,West,31,478.08
+2025-04-13,T-Shirt,Clothing,East,28,497.63
+2025-04-14,Office Chair,Furniture,South,1,179.16
+2025-04-15,Headphones,Electronics,South,17,1844.65
+2025-04-16,Smartphone,Electronics,East,2,1227.11
+2025-04-16,Smartphone,Electronics,West,3,1842.19
+2025-04-17,Laptop,Electronics,North,1,730.57
+2025-04-18,Pen Set,Office Supplies,West,35,246.48
+2025-04-18,Printer Paper,Office Supplies,South,32,707.11
+2025-04-19,T-Shirt,Clothing,South,40,631.74
+2025-04-20,Pen Set,Office Supplies,East,38,268.83
+2025-04-20,Headphones,Electronics,North,10,1126.73
+2025-04-20,Printer Paper,Office Supplies,North,34,783.13
+2025-04-21,T-Shirt,Clothing,West,40,680.9
+2025-04-21,Pen Set,Office Supplies,West,32,243.4
+2025-04-21,Standing Desk,Furniture,North,4,1615.79
+2025-04-22,Smartphone,Electronics,North,4,2463.65
+2025-04-23,Smartphone,Electronics,North,5,2857.46
+2025-04-24,Smartphone,Electronics,North,2,1185.14
+2025-04-24,Office Chair,Furniture,South,5,788.81
+2025-04-25,Bookshelf,Furniture,West,8,733.0
+2025-04-25,Standing Desk,Furniture,South,7,2505.97
+2025-04-26,Standing Desk,Furniture,West,4,1484.74
+2025-04-26,T-Shirt,Clothing,East,31,496.74
+2025-04-26,T-Shirt,Clothing,North,32,515.2
+2025-04-27,Headphones,Electronics,West,12,1283.66
+2025-04-28,Laptop,Electronics,West,4,3082.94
+2025-04-28,Headphones,Electronics,South,7,808.13
+2025-04-29,Laptop,Electronics,West,4,3242.1
+2025-05-01,Standing Desk,Furniture,North,4,1545.99
+2025-05-01,Smartphone,Electronics,North,5,2762.47
+2025-05-01,Smartphone,Electronics,North,5,2762.47
+2025-05-01,Standing Desk,Furniture,North,4,1545.99
+2025-05-02,Laptop,Electronics,East,4,2972.59
+2025-05-02,Printer Paper,Office Supplies,South,31,759.59
+2025-05-03,Pen Set,Office Supplies,East,28,221.93
+2025-05-03,Bookshelf,Furniture,East,14,1277.44
+2025-05-04,Bookshelf,Furniture,South,17,1559.33
+2025-05-06,Notebook Pack,Office Supplies,North,39,399.52
+2025-05-07,Notebook Pack,Office Supplies,West,36,389.77
+2025-05-07,Headphones,Electronics,North,11,1167.69
+2025-05-07,Headphones,Electronics,North,11,1167.69
+2025-05-10,Sneakers,Clothing,North,15,1181.75
+2025-05-13,Headphones,Electronics,East,6,695.64
+2025-05-13,Jacket,Clothing,South,9,659.01
+2025-05-13,Pen Set,Office Supplies,South,43,331.88
+2025-05-14,Smartphone,Electronics,East,4,2339.33
+2025-05-14,Printer Paper,Office Supplies,East,28,665.85
+2025-05-15,Monitor,Electronics,East,2,439.75
+2025-05-16,Smartphone,Electronics,East,7,4033.16
+2025-05-16,Notebook Pack,Office Supplies,South,36,426.93
+2025-05-16,Office Chair,Furniture,North,3,466.71
+2025-05-17,Standing Desk,Furniture,North,1,392.91
+2025-05-19,T-Shirt,Clothing,East,29,469.24
+2025-05-20,Office Chair,Furniture,North,6,964.48
+2025-05-22,Monitor,Electronics,South,8,1871.86
+2025-05-26,Office Chair,Furniture,East,6,999.89
+2025-05-27,Bookshelf,Furniture,North,10,852.58
+2025-05-29,Printer Paper,Office Supplies,North,24,562.36
+2025-05-30,Jacket,Clothing,West,7,460.32
+2025-05-30,Bookshelf,Furniture,East,10,857.69
+2025-05-30,Laptop,Electronics,East,6,4698.39
+2025-05-30,Laptop,Electronics,West,3,2482.84
+2025-06-01,Laptop,Electronics,West,1,840.43
+2025-06-02,Monitor,Electronics,South,6,1356.78
+2025-06-02,Printer Paper,Office Supplies,East,30,645.94
+2025-06-02,Sneakers,Clothing,North,12,1055.98
+2025-06-02,Pen Set,Office Supplies,West,48,366.31
+2025-06-02,Printer Paper,Office Supplies,East,30,645.94
+2025-06-07,Smartphone,Electronics,East,2,1142.41
+2025-06-07,Laptop,Electronics,South,7,5847.45
+2025-06-08,Smartphone,Electronics,South,2,1080.0
+2025-06-08,Office Chair,Furniture,South,2,339.18
+2025-06-08,Printer Paper,Office Supplies,South,36,874.39
+2025-06-08,Office Chair,Furniture,South,1,166.91
+2025-06-08,Bookshelf,Furniture,East,10,870.9
+2025-06-08,Laptop,Electronics,West,2,1560.39
+2025-06-09,Laptop,Electronics,North,3,2529.12
+2025-06-09,Standing Desk,Furniture,North,3,1254.54
+2025-06-10,Bookshelf,Furniture,North,8,690.67
+2025-06-10,Printer Paper,Office Supplies,South,31,689.38
+2025-06-10,Smartphone,Electronics,South,4,2442.83
+2025-06-11,Headphones,Electronics,East,12,1336.14
+2025-06-11,Smartphone,Electronics,North,1,613.27
+2025-06-12,Headphones,Electronics,South,5,544.08
+2025-06-12,Smartphone,Electronics,East,1,545.8
+2025-06-13,Jacket,Clothing,North,16,1138.12
+2025-06-13,Printer Paper,Office Supplies,North,39,843.07
+2025-06-14,Bookshelf,Furniture,South,,791.2
+2025-06-14,Smartphone,Electronics,North,3,1810.87
+2025-06-14,Sneakers,Clothing,East,12,927.53
+2025-06-16,Jacket,Clothing,West,11,714.14
+2025-06-16,Office Chair,Furniture,West,4,712.4
+2025-06-17,Smartphone,Electronics,North,4,2370.36
+2025-06-17,Smartphone,Electronics,East,3,1846.01
+2025-06-18,Sneakers,Clothing,North,7,554.11
+2025-06-18,Notebook Pack,Office Supplies,East,35,390.64
+2025-06-18,Office Chair,Furniture,East,4,658.34
+2025-06-19,Sneakers,Clothing,North,13,1092.11
+2025-06-20,T-Shirt,Clothing,East,36,583.75
+2025-06-20,Headphones,Electronics,North,10,1151.13
+2025-06-20,Monitor,Electronics,South,5,1113.91
+2025-06-21,Printer Paper,Office Supplies,South,27,592.05
+2025-06-21,Smartphone,Electronics,South,3,1599.69
+2025-06-21,Laptop,Electronics,South,3,2386.92
+2025-06-22,Notebook Pack,Office Supplies,East,44,482.73
+2025-06-22,Sneakers,Clothing,North,6,517.62
+2025-06-23,T-Shirt,Clothing,West,27,417.2
+2025-06-26,Monitor,Electronics,North,6,1403.43
+2025-06-27,Office Chair,Furniture,South,4,668.32
+2025-06-28,Monitor,Electronics,East,3,706.19
+2025-06-29,Smartphone,Electronics,East,3,1594.18
+2025-06-29,T-Shirt,Clothing,South,26,450.88
+2025-06-30,Smartphone,Electronics,East,3,1735.92
+2025-06-30,Pen Set,Office Supplies,North,43,321.08
+2025-06-30,Headphones,Electronics,East,10,1055.64
+2025-07-01,Monitor,Electronics,West,4,925.06
+2025-07-01,Printer Paper,Office Supplies,East,35,869.35
+2025-07-02,Pen Set,Office Supplies,North,37,295.9
+2025-07-02,Headphones,Electronics,South,10,1028.83
+2025-07-02,Pen Set,Office Supplies,East,40,306.57
+2025-07-02,Printer Paper,Office Supplies,North,39,843.55
+2025-07-02,Standing Desk,Furniture,West,4,1612.97
+2025-07-04,Printer Paper,Office Supplies,East,35,857.16
+2025-07-04,Standing Desk,Furniture,North,1,366.01
+2025-07-04,Bookshelf,Furniture,South,10,822.57
+2025-07-05,T-Shirt,Clothing,North,36,628.82
+2025-07-07,Printer Paper,Office Supplies,West,37,914.36
+2025-07-07,Bookshelf,Furniture,South,11,1016.7
+2025-07-09,Headphones,Electronics,North,17,1818.82
+2025-07-10,T-Shirt,Clothing,South,,851.71
+2025-07-10,Bookshelf,Furniture,North,5,463.36
+2025-07-12,Laptop,Electronics,South,2,1588.65
+2025-07-13,Notebook Pack,Office Supplies,East,48,544.14
+2025-07-14,Printer Paper,Office Supplies,East,42,1043.4
+2025-07-17,Notebook Pack,Office Supplies,North,38,410.84
+2025-07-18,Standing Desk,Furniture,East,3,1126.56
+2025-07-18,Office Chair,Furniture,South,3,480.25
+2025-07-19,Headphones,Electronics,East,11,1269.85
+2025-07-19,Notebook Pack,Office Supplies,West,23,261.72
+2025-07-19,Smartphone,Electronics,North,7,4291.94
+2025-07-19,Sneakers,Clothing,South,7,577.58
+2025-07-22,Laptop,Electronics,West,5,3800.81
+2025-07-22,Smartphone,Electronics,East,6,3242.44
+2025-07-22,Smartphone,Electronics,North,6,3437.8
+2025-07-22,Sneakers,Clothing,East,18,1603.43
+2025-07-22,Bookshelf,Furniture,North,11,933.48
+2025-07-22,Headphones,Electronics,South,15,1670.66
+2025-07-23,Standing Desk,Furniture,West,4,1572.87
+2025-07-24,Monitor,Electronics,North,10,2243.57
+2025-07-26,Monitor,Electronics,West,4,932.04
+2025-07-26,Headphones,Electronics,South,10,1100.51
+2025-07-26,Standing Desk,Furniture,East,7,2566.69
+2025-07-27,Monitor,Electronics,South,3,714.45
+2025-07-27,T-Shirt,Clothing,South,47,786.7
+2025-07-28,Sneakers,Clothing,North,10,796.04
+2025-07-29,Printer Paper,Office Supplies,North,58,1286.8
+2025-07-31,T-Shirt,Clothing,South,39,634.11
+2025-08-01,Laptop,Electronics,East,5,3802.96
+2025-08-01,Headphones,Electronics,East,10,1115.33
+2025-08-02,Notebook Pack,Office Supplies,East,30,315.45
+2025-08-03,Standing Desk,Furniture,East,3,1113.58
+2025-08-04,T-Shirt,Clothing,West,29,506.15
+2025-08-06,Pen Set,Office Supplies,North,40,316.12
+2025-08-06,Headphones,Electronics,West,10,1171.4
+2025-08-07,Smartphone,Electronics,East,3,1761.96
+2025-08-09,Monitor,Electronics,East,1,207.72
+2025-08-10,Office Chair,Furniture,West,6,1037.85
+2025-08-10,Jacket,Clothing,,11,744.97
+2025-08-12,Pen Set,Office Supplies,North,39,293.09
+2025-08-13,Monitor,Electronics,West,3,616.86
+2025-08-15,Pen Set,Office Supplies,West,35,256.25
+2025-08-17,Laptop,Electronics,West,5,3752.75
+2025-08-18,Notebook Pack,Office Supplies,East,39,455.81
+2025-08-18,Notebook Pack,Office Supplies,North,42,456.5
+2025-08-19,Pen Set,Office Supplies,East,38,267.95
+2025-08-19,Smartphone,Electronics,South,2,1124.72
+2025-08-20,Sneakers,Clothing,South,12,1039.14
+2025-08-20,Office Chair,Furniture,North,2,328.4
+2025-08-20,Standing Desk,Furniture,North,3,1074.83
+2025-08-20,Headphones,Electronics,East,7,764.56
+2025-08-21,Laptop,Electronics,North,2,1584.84
+2025-08-24,Laptop,Electronics,West,2,1482.37
+2025-08-26,Pen Set,Office Supplies,West,42,304.95
+2025-08-27,Headphones,Electronics,East,11,1151.54
+2025-08-27,Notebook Pack,Office Supplies,North,32,375.61
+2025-08-29,Pen Set,Office Supplies,East,32,219.9
+2025-08-30,Pen Set,Office Supplies,North,37,277.99
+2025-08-30,Pen Set,Office Supplies,South,48,353.58
+2025-08-30,Monitor,Electronics,North,1,239.52
+2025-08-30,Jacket,Clothing,South,7,479.19
+2025-08-31,Notebook Pack,Office Supplies,North,48,556.71
+2025-08-31,T-Shirt,Clothing,North,40,628.96
+2025-08-31,Headphones,Electronics,East,6,639.77
+2025-08-31,Monitor,Electronics,North,3,682.29
+2025-08-31,Headphones,Electronics,East,6,639.77
+2025-08-31,T-Shirt,Clothing,North,40,628.96
+2025-09-01,T-Shirt,Clothing,East,47,809.2
+2025-09-01,Sneakers,Clothing,East,12,934.12
+2025-09-02,Headphones,Electronics,West,7,813.65
+2025-09-02,Laptop,Electronics,East,6,4969.35
+2025-09-03,Smartphone,Electronics,East,3,1603.18
+2025-09-05,Headphones,Electronics,West,13,1491.89
+2025-09-05,Headphones,Electronics,South,8,922.9
+2025-09-05,Notebook Pack,Office Supplies,West,37,395.18
+2025-09-07,Pen Set,Office Supplies,North,47,333.92
+2025-09-07,Sneakers,Clothing,North,13,995.37
+2025-09-07,Printer Paper,Office Supplies,East,52,1192.24
+2025-09-08,Sneakers,Clothing,North,10,889.02
+2025-09-11,Sneakers,Clothing,South,12,1017.57
+2025-09-12,Notebook Pack,Office Supplies,East,33,352.63
+2025-09-12,Office Chair,Furniture,South,4,691.02
+2025-09-12,Laptop,Electronics,North,8,6006.39
+2025-09-13,Notebook Pack,Office Supplies,South,46,486.2
+2025-09-13,Bookshelf,Furniture,West,16,1500.86
+2025-09-13,Jacket,Clothing,North,3,204.42
+2025-09-14,Smartphone,Electronics,West,7,3810.54
+2025-09-15,Headphones,Electronics,East,13,1431.6
+2025-09-19,Smartphone,Electronics,South,3,1673.73
+2025-09-19,Office Chair,Furniture,West,2,343.2
+2025-09-19,Office Chair,Furniture,East,2,344.95
+2025-09-19,Sneakers,Clothing,North,14,1128.33
+2025-09-20,Jacket,Clothing,West,12,861.08
+2025-09-20,Smartphone,Electronics,North,3,1673.56
+2025-09-21,Laptop,Electronics,North,6,4863.35
+2025-09-21,Headphones,Electronics,East,13,1556.39
+2025-09-21,Laptop,Electronics,North,6,4863.35
+2025-09-22,Laptop,Electronics,West,2,1574.34
+2025-09-23,Monitor,Electronics,East,1,206.9
+2025-09-24,Sneakers,Clothing,North,7,553.93
+2025-09-26,Pen Set,Office Supplies,North,44,328.5
+2025-09-26,Headphones,Electronics,West,17,2016.36
+2025-09-26,Pen Set,Office Supplies,North,39,268.13
+2025-09-27,Monitor,Electronics,South,4,923.7
+2025-09-27,Monitor,Electronics,East,5,1165.41
+2025-09-29,Smartphone,Electronics,North,3,1725.61
+2025-09-29,Laptop,Electronics,North,,4198.46
+2025-09-30,Laptop,Electronics,,7,5493.91
+2025-09-30,Jacket,Clothing,North,9,578.1
+2025-10-01,Notebook Pack,Office Supplies,North,30,324.29
+2025-10-01,Monitor,Electronics,South,8,1785.61
+2025-10-04,Monitor,Electronics,North,2,414.78
+2025-10-04,Notebook Pack,Office Supplies,South,40,439.2
+2025-10-04,Pen Set,Office Supplies,West,43,317.53
+2025-10-05,Printer Paper,Office Supplies,South,42,1040.95
+2025-10-05,Smartphone,Electronics,East,3,1588.11
+2025-10-06,Laptop,Electronics,North,4,3266.1
+2025-10-07,Monitor,Electronics,East,1,219.63
+2025-10-07,Sneakers,Clothing,East,15,1319.38
+2025-10-07,Headphones,Electronics,North,18,1844.49
+2025-10-08,Office Chair,Furniture,East,6,934.77
+2025-10-08,Pen Set,Office Supplies,South,48,370.97
+2025-10-09,Headphones,Electronics,South,11,1233.0
+2025-10-09,Notebook Pack,Office Supplies,East,45,487.04
+2025-10-10,Notebook Pack,Office Supplies,North,39,443.25
+2025-10-11,Office Chair,Furniture,South,3,500.09
+2025-10-12,Headphones,Electronics,East,9,1067.43
+2025-10-12,Monitor,Electronics,West,5,1145.75
+2025-10-12,Laptop,Electronics,East,2,1621.45
+2025-10-12,Headphones,Electronics,West,15,1774.94
+2025-10-13,Sneakers,Clothing,East,8,622.89
+2025-10-13,Headphones,Electronics,North,11,1181.3
+2025-10-14,Notebook Pack,Office Supplies,South,50,569.31
+2025-10-14,Monitor,Electronics,North,6,1436.68
+2025-10-14,Laptop,Electronics,North,2,1597.04
+2025-10-15,Headphones,Electronics,East,16,1827.57
+2025-10-15,Monitor,Electronics,West,2,410.53
+2025-10-15,Printer Paper,Office Supplies,North,41,872.28
+2025-10-17,Notebook Pack,Office Supplies,West,44,473.38
+2025-10-18,Bookshelf,Furniture,East,11,952.44
+2025-10-18,Bookshelf,Furniture,West,12,1089.6
+2025-10-18,Printer Paper,Office Supplies,East,46,1094.18
+2025-10-18,Headphones,Electronics,East,12,1408.89
+2025-10-21,Smartphone,Electronics,East,7,4108.81
+2025-10-21,Printer Paper,Office Supplies,West,49,1092.35
+2025-10-21,Pen Set,Office Supplies,North,53,399.16
+2025-10-21,Bookshelf,Furniture,South,11,905.44
+2025-10-22,Bookshelf,Furniture,West,10,829.38
+2025-10-23,Standing Desk,Furniture,East,1,367.36
+2025-10-23,Notebook Pack,Office Supplies,South,36,377.21
+2025-10-25,T-Shirt,Clothing,South,51,825.74
+2025-10-27,Standing Desk,Furniture,West,6,2252.55
+2025-10-28,Standing Desk,Furniture,,8,3099.39
+2025-10-29,Monitor,Electronics,South,3,646.81
+2025-10-29,Sneakers,Clothing,West,14,1215.72
+2025-10-30,Office Chair,Furniture,North,8,1398.09
+2025-10-30,Smartphone,Electronics,North,5,2868.06
+2025-10-30,T-Shirt,Clothing,East,37,588.66
+2025-10-31,Headphones,Electronics,South,16,1832.03
+2025-10-31,Headphones,Electronics,West,12,1321.4
+2025-10-31,Pen Set,Office Supplies,North,51,386.14
+2025-10-31,Headphones,Electronics,East,20,2189.65
+2025-11-03,Headphones,Electronics,North,12,1339.43
+2025-11-03,Monitor,Electronics,North,4,872.06
+2025-11-04,T-Shirt,Clothing,South,51,808.27
+2025-11-05,Smartphone,Electronics,West,4,2445.9
+2025-11-06,Pen Set,Office Supplies,South,56,389.44
+2025-11-07,Notebook Pack,Office Supplies,South,55,590.33
+2025-11-08,Printer Paper,Office Supplies,North,54,1203.83
+2025-11-09,Printer Paper,Office Supplies,North,50,1153.82
+2025-11-09,Headphones,Electronics,North,24,2612.77
+2025-11-09,Pen Set,Office Supplies,South,46,354.31
+2025-11-10,Headphones,Electronics,East,21,2358.99
+2025-11-10,Laptop,Electronics,West,11,9072.03
+2025-11-12,Office Chair,Furniture,North,13,2331.21
+2025-11-16,Pen Set,Office Supplies,North,65,458.47
+2025-11-20,T-Shirt,Clothing,West,46,734.87
+2025-11-21,Headphones,Electronics,South,12,1334.49
+2025-11-22,Pen Set,Office Supplies,West,55,392.36
+2025-11-22,Smartphone,Electronics,East,4,2401.89
+2025-11-22,Laptop,Electronics,West,11,9120.15
+2025-11-22,Headphones,Electronics,East,25,2707.05
+2025-11-23,Headphones,Electronics,East,16,1818.89
+2025-11-24,Office Chair,Furniture,North,2,322.87
+2025-11-24,Laptop,Electronics,South,7,5442.06
+2025-11-25,Office Chair,Furniture,East,6,1035.12
+2025-11-26,Laptop,Electronics,West,8,5820.74
+2025-11-27,Smartphone,Electronics,North,9,5097.9
+2025-11-27,Bookshelf,Furniture,South,17,1567.59
+2025-11-28,Pen Set,Office Supplies,East,45,307.52
+2025-12-01,Laptop,Electronics,North,6,4420.31
+2025-12-01,T-Shirt,Clothing,North,57,1018.76
+2025-12-03,Standing Desk,Furniture,East,8,2927.8
+2025-12-04,Bookshelf,Furniture,South,16,1433.38
+2025-12-04,Bookshelf,Furniture,East,12,1107.56
+2025-12-05,Office Chair,Furniture,East,10,1612.33
+2025-12-05,Standing Desk,Furniture,North,7,2864.43
+2025-12-05,Sneakers,Clothing,North,16,1334.2
+2025-12-07,Office Chair,Furniture,North,4,632.05
+2025-12-08,Notebook Pack,Office Supplies,North,52,612.37
+2025-12-08,Standing Desk,Furniture,North,7,2638.15
+2025-12-08,Printer Paper,Office Supplies,South,54,1165.8
+2025-12-09,Laptop,Electronics,North,4,2928.94
+2025-12-09,Smartphone,Electronics,North,4,2324.22
+2025-12-09,Office Chair,Furniture,North,7,1115.93
+2025-12-10,Laptop,Electronics,North,6,4746.87
+2025-12-12,Bookshelf,Furniture,North,11,929.6
+2025-12-14,Jacket,Clothing,North,16,1101.5
+2025-12-15,Printer Paper,Office Supplies,West,52,1280.96
+2025-12-15,Jacket,Clothing,West,18,1244.71
+2025-12-16,Office Chair,Furniture,South,6,1051.09
+2025-12-17,Pen Set,Office Supplies,North,59,418.3
+2025-12-17,Office Chair,Furniture,North,12,2025.91
+2025-12-18,Printer Paper,Office Supplies,North,54,1331.79
+2025-12-18,Standing Desk,Furniture,East,2,765.23
+2025-12-19,Pen Set,Office Supplies,North,50,362.17
+2025-12-20,Notebook Pack,Office Supplies,East,60,670.24
+2025-12-20,Smartphone,Electronics,South,4,2189.57
+2025-12-20,Notebook Pack,Office Supplies,South,55,616.41
+2025-12-20,Sneakers,Clothing,West,10,863.26
+2025-12-20,Sneakers,Clothing,West,10,863.26
+2025-12-21,Office Chair,Furniture,North,12,2158.87
+2025-12-21,Office Chair,Furniture,West,8,1332.66
+2025-12-22,Notebook Pack,Office Supplies,South,57,584.84
+2025-12-22,Bookshelf,Furniture,South,13,1177.65
+2025-12-23,Bookshelf,Furniture,East,16,1400.07
+2025-12-25,Laptop,Electronics,South,5,4160.75
+2025-12-28,Notebook Pack,Office Supplies,East,60,715.9
+2025-12-28,Jacket,Clothing,East,13,910.0
+2025-12-29,T-Shirt,Clothing,East,71,1110.72
+2025-12-29,Standing Desk,Furniture,North,4,1552.3
+2025-12-30,Printer Paper,Office Supplies,North,68,1577.38
+2025-12-31,Sneakers,Clothing,West,11,871.95
